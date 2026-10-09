@@ -7,6 +7,7 @@ public class Timer : MonoBehaviour
 {
     public float timeRemaining = 10f; // Timer duration in seconds
     public bool timerIsRunning = false;
+
     private void Start()
     {
         timerIsRunning = true; // Start the timer

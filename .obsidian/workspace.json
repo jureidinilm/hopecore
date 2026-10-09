@@ -20,8 +20,33 @@
               "icon": "lucide-file",
               "title": "notepad"
             }
+          },
+          {
+            "id": "ad2a747b8aa212ff",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
+          },
+          {
+            "id": "3f6b778600ee71e2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,19 +207,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f11c1d9e258adcbd",
+  "active": "3f6b778600ee71e2",
   "lastOpenFiles": [
-    "hope/Library/Artifacts/eb/eb270f2e2156a833c846ed2b126bcabc",
-    "hope/Assets/Prefabs/Point Light.prefab.meta",
-    "hope/Assets/Prefabs/Point Light.prefab",
-    "hope/Temp/ADB-Refresha140443c201498a44b32dfcb21e2d88d",
-    "hope/Library/TempArtifacts/Extra/1625bd89215f9dd4ea90cd817b9474f0.info",
-    "hope/Temp/ADB-Refreshf5844db563848a549b652b2e41e5897d",
-    "hope/Library/Artifacts/00/001212333e72c82fb19b6f81b661ec15",
-    "hope/Temp/Burst/burst-aotn2s7heuc.540",
-    "hope/Temp/Burst/burst-aotclzuttfd.4cq",
-    "hope/Temp/Burst/burst-aotc4o4g7av.wh5",
-    "hope/Temp/Burst/burst-aot9f5avvmc.hgo",
+    "hope/Library/Artifacts/46/4628b53700d06f261835b6dd99b9be91",
+    "hope/Library/TempArtifacts/Extra/2614826f3c6b6d447822606fdc8cce0b.info",
+    "hope/Library/Artifacts/ce/ce6939bf86a3467b04e0f10e5b068d81",
+    "hope/Assets/Prefabs/bullet.prefab.meta",
+    "hope/Assets/Prefabs/bullet.prefab",
+    "hope/Library/Artifacts/2b/2bf0e71e7665f3a6ccdba2424f9292fe",
+    "hope/Library/Bee/artifacts/rsp/3037372816226278216.rsp",
+    "hope/Library/Bee/artifacts/2000b0aE.dag/post-processed/Unity.VisualScripting.Flow.Editor.dll",
+    "hope/Library/Bee/artifacts/2000b0aE.dag/post-processed/UnityEngine.UI.dll",
+    "hope/Library/Bee/artifacts/2000b0aE.dag/post-processed/UnityEngine.UI.pdb",
+    "hope/Library/Bee/artifacts/2000b0aE.dag/post-processed/UnityEditor.UI.pdb",
     "README.md",
     "hope/Assets/Art/placelogo.png",
     "hope/Assets/Art/titlescreen.png",
